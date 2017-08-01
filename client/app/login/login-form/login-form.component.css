@@ -1,0 +1,49 @@
+#loginForm{
+    color: #333;
+}
+
+#loginForm .logo-container {
+    width: 80px;
+    height: 80px;
+    padding: 18px;
+    border: solid 2px #333;
+    border-radius: 50%;
+    display: inline-block;
+    -webkit-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+}
+
+#loginForm .help-block{
+    font-size:12px
+}
+
+
+#loginForm  .login-or {
+    position: relative;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#loginForm  .span-or {
+    display: block;
+    position: absolute;
+    font-size: 11px;
+    font-weight: bold;
+    left: 50%;
+    top: -1px;
+    margin-left: -15px;
+    background-color: #fff;
+    padding:3px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+#loginForm  .hr-or {
+    background-color: #cdcdcd;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
